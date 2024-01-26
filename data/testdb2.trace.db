@@ -1,0 +1,9 @@
+2024-01-26 15:20:06.763396+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "Messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "Messages" ("TEXT") VALUES (?) [42103-224]
+2024-01-26 15:20:09.946164+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "Messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "Messages" ("TEXT") VALUES (?) [42103-224]
+2024-01-26 15:21:25.242683+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "Messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "Messages" ("TEXT") VALUES (?) [42103-224]
